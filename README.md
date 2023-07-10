@@ -24,7 +24,7 @@ From version 3.0, the menu bar at the top is moved into a single file (menu.html
 <script src="js/menu.js"></script>
 ```
 This website is static-dynamic with user interactions supported in JavaScript Jquery, do not modify or copy the menu file code (menu.html) into the menu-container div of your html template.
-````html
+```html
 <div class="menu-container">
   [copy everything in the menu.html and paste the code here]
 </div>
